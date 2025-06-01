@@ -1,0 +1,3 @@
+[submodule "puzzle"]
+	path = puzzle
+	url = git@github.com:AI-Kyo-er/puzzle.git
