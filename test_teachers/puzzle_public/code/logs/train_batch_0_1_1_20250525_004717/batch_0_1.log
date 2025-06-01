@@ -1,0 +1,6 @@
+加载 1 条数据，开始处理（索引范围：0-1）
+处理进度:   0%|          | 0/1 [00:00<?, ?it/s]处理进度: 100%|██████████| 1/1 [00:00<00:00, 11.84it/s]
+API错误（第1次尝试）: 404, 消息: The model `Qwen/Qwen2.5-VL-72B-Instruct` does not exist.
+404 Client Error: Not Found for url: http://127.0.0.1:5899/v1/chat/completions
+处理完成：成功 0 条，失败 1 条
+结果已保存至：/inspire/hdd/project/foundationmodel/xialingying133-summer-133/test_teachers/puzzle_public/data/output/train_batch_0_1_1_20250525_004717/batch_0_1.jsonl

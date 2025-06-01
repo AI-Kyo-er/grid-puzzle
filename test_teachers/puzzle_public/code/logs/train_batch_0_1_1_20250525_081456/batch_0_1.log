@@ -1,0 +1,9 @@
+加载 1 条数据，开始处理（索引范围：0-1）
+处理进度:   0%|          | 0/1 [00:00<?, ?it/s]处理进度: 100%|██████████| 1/1 [01:04<00:00, 64.63s/it]处理进度: 100%|██████████| 1/1 [01:04<00:00, 64.63s/it]
+sk-zbxbqattgtkohiwrzyqorysmorzjgrjflpsbelxeagxyytit
+请求失败（第1次尝试）: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+请求失败（第2次尝试）: HTTPConnectionPool(host='127.0.0.1', port=5899): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5268db5b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+请求失败（第3次尝试）: HTTPConnectionPool(host='127.0.0.1', port=5899): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5268db6440>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='127.0.0.1', port=5899): Max retries exceeded with url: /v1/chat/completions (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f5268db6440>: Failed to establish a new connection: [Errno 111] Connection refused'))
+处理完成：成功 0 条，失败 1 条
+结果已保存至：/inspire/hdd/project/foundationmodel/xialingying133-summer-133/test_teachers/puzzle_public/data/output/train_batch_0_1_1_20250525_081456/batch_0_1.jsonl

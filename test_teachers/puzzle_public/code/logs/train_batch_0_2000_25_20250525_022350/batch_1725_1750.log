@@ -1,0 +1,29 @@
+加载 25 条数据，开始处理（索引范围：1725-1750）
+处理进度:   0%|          | 0/25 [00:00<?, ?it/s]处理进度:   4%|▍         | 1/25 [00:35<14:15, 35.64s/it]处理进度:   8%|▊         | 2/25 [01:11<13:38, 35.57s/it]处理进度:  12%|█▏        | 3/25 [01:41<12:05, 32.97s/it]处理进度:  16%|█▌        | 4/25 [02:29<13:43, 39.21s/it]处理进度:  20%|██        | 5/25 [02:53<11:13, 33.67s/it]处理进度:  24%|██▍       | 6/25 [03:16<09:30, 30.04s/it]处理进度:  28%|██▊       | 7/25 [03:42<08:38, 28.80s/it]处理进度:  32%|███▏      | 8/25 [04:05<07:34, 26.76s/it]处理进度:  36%|███▌      | 9/25 [04:34<07:21, 27.61s/it]处理进度:  40%|████      | 10/25 [04:53<06:11, 24.74s/it]处理进度:  44%|████▍     | 11/25 [05:09<05:11, 22.21s/it]处理进度:  48%|████▊     | 12/25 [05:46<05:47, 26.70s/it]处理进度:  52%|█████▏    | 13/25 [06:27<06:14, 31.17s/it]处理进度:  56%|█████▌    | 14/25 [07:04<06:00, 32.79s/it]处理进度:  60%|██████    | 15/25 [07:40<05:37, 33.71s/it]处理进度:  64%|██████▍   | 16/25 [08:19<05:17, 35.23s/it]处理进度:  68%|██████▊   | 17/25 [08:50<04:32, 34.03s/it]处理进度:  72%|███████▏  | 18/25 [09:28<04:07, 35.36s/it]处理进度:  76%|███████▌  | 19/25 [09:52<03:10, 31.76s/it]处理进度:  80%|████████  | 20/25 [10:30<02:49, 33.85s/it]处理进度:  84%|████████▍ | 21/25 [11:08<02:19, 34.83s/it]处理进度:  88%|████████▊ | 22/25 [11:47<01:48, 36.30s/it]处理进度:  92%|█████████▏| 23/25 [12:06<01:02, 31.07s/it]处理进度:  96%|█████████▌| 24/25 [12:17<00:25, 25.01s/it]处理进度: 100%|██████████| 25/25 [12:39<00:00, 24.05s/it]处理进度: 100%|██████████| 25/25 [12:39<00:00, 30.37s/it]
+API 请求使用的总 token 数: {'prompt_tokens': 861, 'total_tokens': 1434, 'completion_tokens': 573, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1524, 'total_tokens': 2224, 'completion_tokens': 700, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1021, 'total_tokens': 1628, 'completion_tokens': 607, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 2091, 'total_tokens': 3084, 'completion_tokens': 993, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1987, 'total_tokens': 2461, 'completion_tokens': 474, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1524, 'total_tokens': 2013, 'completion_tokens': 489, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 861, 'total_tokens': 1374, 'completion_tokens': 513, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 861, 'total_tokens': 1310, 'completion_tokens': 449, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 861, 'total_tokens': 1455, 'completion_tokens': 594, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1524, 'total_tokens': 1894, 'completion_tokens': 370, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1524, 'total_tokens': 1859, 'completion_tokens': 335, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1524, 'total_tokens': 2241, 'completion_tokens': 717, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1319, 'total_tokens': 2133, 'completion_tokens': 814, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1987, 'total_tokens': 2736, 'completion_tokens': 749, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1596, 'total_tokens': 2319, 'completion_tokens': 723, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 2091, 'total_tokens': 2847, 'completion_tokens': 756, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1021, 'total_tokens': 1676, 'completion_tokens': 655, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 2091, 'total_tokens': 2857, 'completion_tokens': 766, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 861, 'total_tokens': 1353, 'completion_tokens': 492, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1596, 'total_tokens': 2369, 'completion_tokens': 773, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1669, 'total_tokens': 2421, 'completion_tokens': 752, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1319, 'total_tokens': 2132, 'completion_tokens': 813, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1524, 'total_tokens': 1920, 'completion_tokens': 396, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 1524, 'total_tokens': 1749, 'completion_tokens': 225, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 861, 'total_tokens': 1381, 'completion_tokens': 520, 'prompt_tokens_details': None}
+处理完成：成功 25 条，失败 0 条
+结果已保存至：/inspire/hdd/project/foundationmodel/xialingying133-summer-133/test_teachers/puzzle_public/data/output/train_batch_0_2000_25_20250525_022350/batch_1725_1750.jsonl

@@ -1,0 +1,5 @@
+{"question_id": "kakuro_315", "error": "unsupported operand type(s) for +: 'NoneType' and 'str'", "success": false}
+{"question_id": "kakuro_569", "error": "unsupported operand type(s) for +: 'NoneType' and 'str'", "success": false}
+{"question_id": "kakuro_219", "error": "unsupported operand type(s) for +: 'NoneType' and 'str'", "success": false}
+{"question_id": "kakuro_541", "error": "unsupported operand type(s) for +: 'NoneType' and 'str'", "success": false}
+{"question_id": "kakuro_83", "error": "unsupported operand type(s) for +: 'NoneType' and 'str'", "success": false}

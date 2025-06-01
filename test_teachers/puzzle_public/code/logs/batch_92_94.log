@@ -1,0 +1,6 @@
+加载 2 条数据，开始处理（索引范围：92-94）
+处理进度:   0%|          | 0/2 [00:00<?, ?it/s]处理进度:  50%|█████     | 1/2 [00:18<00:18, 18.78s/it]处理进度: 100%|██████████| 2/2 [00:50<00:00, 26.23s/it]处理进度: 100%|██████████| 2/2 [00:50<00:00, 25.11s/it]
+API 请求使用的总 token 数: {'prompt_tokens': 1065, 'total_tokens': 2648, 'completion_tokens': 1583, 'prompt_tokens_details': None}
+API 请求使用的总 token 数: {'prompt_tokens': 665, 'total_tokens': 3421, 'completion_tokens': 2756, 'prompt_tokens_details': None}
+处理完成：成功 2 条，失败 0 条
+结果已保存至：../data/output/train_0_100/batch_92_94.jsonl

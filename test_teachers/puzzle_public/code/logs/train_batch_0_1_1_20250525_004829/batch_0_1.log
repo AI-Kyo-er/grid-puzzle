@@ -1,0 +1,5 @@
+加载 1 条数据，开始处理（索引范围：0-1）
+处理进度:   0%|          | 0/1 [00:00<?, ?it/s]处理进度: 100%|██████████| 1/1 [00:12<00:00, 12.91s/it]处理进度: 100%|██████████| 1/1 [00:12<00:00, 12.91s/it]
+API 请求使用的总 token 数: {'prompt_tokens': 861, 'total_tokens': 1346, 'completion_tokens': 485, 'prompt_tokens_details': None}
+处理完成：成功 1 条，失败 0 条
+结果已保存至：/inspire/hdd/project/foundationmodel/xialingying133-summer-133/test_teachers/puzzle_public/data/output/train_batch_0_1_1_20250525_004829/batch_0_1.jsonl

@@ -1,0 +1,8 @@
+加载 1 条数据，开始处理（索引范围：0-1）
+处理进度:   0%|          | 0/1 [00:00<?, ?it/s]处理进度:   0%|          | 0/1 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/inspire/hdd/project/foundationmodel/xialingying133-summer-133/test_teachers/puzzle_public/code/api_infer_loop.py", line 227, in <module>
+    main()
+  File "/inspire/hdd/project/foundationmodel/xialingying133-summer-133/test_teachers/puzzle_public/code/api_infer_loop.py", line 214, in main
+    result = process_item(item, args)
+TypeError: process_item() missing 1 required positional argument: 'output_file'
