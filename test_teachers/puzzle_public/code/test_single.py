@@ -4,8 +4,8 @@ import json
 from PIL import Image
 import os
 # 配置项
-API_URL = "https://api.siliconflow.cn/v1/chat/completions"
-API_TOKEN = "sk-zbxbqattgtkohiwrzyqorysmorzjgrjflpsbelxeagxyytit"  # 替换为实际Token
+API_URL = ""
+API_TOKEN = ""  # 替换为实际Token
 IMAGE_PATH = "test.png"  # 本地测试图片路径
 PROMPT = "请描述这张图片的内容"  # 测试提示词
 
